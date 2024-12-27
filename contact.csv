@@ -1,0 +1,4 @@
+ContactID,CompanyID,FirstName,LastName,Street,City,State,Zip,IsMain,Email,Phone
+1,4567,Neha,Jadav,"Gali 2",ahmedabad,GJ,380015,1,nedha.jadav@tollbrothers.com,9876543021
+2,7896,Zinal,Shrama,"lane 4",Pune,MH,381578,0,zinal.shrama@tops.com,9812376540
+3,2345,"Dianne Connor","Dianne Connor’s","bal kunj",Jaypur,RJ,381010,1,dianne.connor@urbanoutfiller.com,9821765430
